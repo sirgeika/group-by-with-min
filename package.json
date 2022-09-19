@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/sirgeika/group-by-with-min.git"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "group-by",
     "min"

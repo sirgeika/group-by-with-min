@@ -1,6 +1,6 @@
 {
   "name": "group-by-with-min",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Collapses an array of objects at the specified object properties and counts minimal values of specified fields",
   "main": "index.js",
   "scripts": {

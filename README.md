@@ -3,11 +3,11 @@ Collapses an array of objects at the specified object properties
 and counts minimal values of specified fields.
 
 ```bash
-npm install group-by-with-average
+npm install group-by-with-min
 ```
 
 ```js
-const groupBy = require('group-by-with-average');
+const groupBy = require('group-by-with-min');
 
 const arr = [
   { name: 'Vasya', who: 'man', weight: 100, height: 100 },
